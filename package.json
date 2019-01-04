@@ -49,6 +49,6 @@
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0",
-    "react-infinite": "^0.12.1"
+    "react-infinite": "^0.13.0"
   }
 }
